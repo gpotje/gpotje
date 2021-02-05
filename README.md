@@ -7,9 +7,9 @@
 
 
 
-[![Linkedin: Jose R F Junior](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-r-f-junior-b72b6b1a/)](https://www.linkedin.com/in/gabriel-potje-de-souza-b55973190/)
-[![Youtube: Jose R F Junior](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/loianegroner)](http://youtube.com/joserfjunior)
-[![Twitch: Jose R F Junior](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/joserfjunior)](https://www.twitch.tv/joserfjunior)
+[![Linkedin: Gabriel Potje de Souza](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-r-f-junior-b72b6b1a/)](https://www.linkedin.com/in/gabriel-potje-de-souza-b55973190/)
+[![Youtube: Gabriel Potje de Souza](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/loianegroner)](https://www.youtube.com/channel/UCywTByrmN-wZ154DOhkgAfw?sub_confirmation=1)
+[![Twitch: Gabriel Potje de Souza](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/joserfjunior)](https://www.twitch.tv/gpotgames)
 
 ## ⚡ Technologies
 
