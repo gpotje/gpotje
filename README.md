@@ -6,8 +6,8 @@
 ### Hi there 👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/jose_rf_junior?style=social)](https://twitter.com/jose_rf_junior)
-[![Linkedin: Jose R F Junior](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-r-f-junior-b72b6b1a/)](https://www.linkedin.com/in/jose-r-f-junior-b72b6b1a/)
+
+[![Linkedin: Jose R F Junior](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-r-f-junior-b72b6b1a/)](https://www.linkedin.com/in/gabriel-potje-de-souza-b55973190/)
 [![Youtube: Jose R F Junior](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/loianegroner)](http://youtube.com/joserfjunior)
 [![Twitch: Jose R F Junior](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/joserfjunior)](https://www.twitch.tv/joserfjunior)
 
