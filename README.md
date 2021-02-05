@@ -1,6 +1,6 @@
-### Jose R F Junior 👋
+### Gabriel Potje de Souza 👋
 
-Jose R F Junior - web2ajax@gmail.com
+ Gabriel Potje de Souza - gpotje.souza@gmail.com
 
 
 ### Hi there 👋
